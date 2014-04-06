@@ -1,4 +1,4 @@
-7seg
-====
+avr-samples
+===========
 
-7-segment control sample program for AVR
+Sample program for 8bit AVR microcontrollers. 
