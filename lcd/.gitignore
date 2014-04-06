@@ -1,0 +1,9 @@
+*.o
+*.d
+*.map
+*.dump
+*.elf
+*.hex
+
+*.sw?
+
